@@ -14,7 +14,7 @@ Setup & Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/u10if/work-scheduler.git
+git clone https://github.com/u10if/scheduler-work.git
 Open index.html in your web browser.
 Usage
 Browse through the months.
